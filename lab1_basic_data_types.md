@@ -1,4 +1,5 @@
 Lab – 1
+
 Title
 
 Study of Basic Data Types, Input Function, Type Function and Type Casting in Python
